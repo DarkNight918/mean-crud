@@ -4,11 +4,11 @@ A step by step  MEAN Stack Tutorial from which you will learn to build Angular 7
 This project was built with Angular CLI version 7.2.3.
 
 ## How to run the app?
-1 - Git clone to your system
-2 - run `npm install` to install required dependencies.
-3 - then run the following commands.
+- Git clone to your system.
+- run `npm install` to install required dependencies.
+- then run the following commands.
   - `ng serve` to run the angular app
-4 - Start the MEAN Stack backend
+- Start the MEAN Stack backend
   - `cd backend` to enter into the backend folder
   - `nodemon server` to start the nodemon server
   - `mongod` to start the mongoDB shell
