@@ -1,7 +1,7 @@
-import { Component, OnInit, ViewChild, NgZone } from '@angular/core';
 import { Router } from '@angular/router';
 import { ApiService } from './../../service/api.service';
-import { FormGroup, FormBuilder, Validators, NgForm, FormGroupDirective } from "@angular/forms";
+import { Component, OnInit, NgZone } from '@angular/core';
+import { FormGroup, FormBuilder, Validators } from "@angular/forms";
 
 @Component({
   selector: 'app-employee-create',
